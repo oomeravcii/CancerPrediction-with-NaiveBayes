@@ -16,4 +16,4 @@ Accurate cancer diagnosis is crucial for effective treatment. This project aims 
 
 ## Dataset
 
-The dataset used in this project is the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
+The dataset used in this project is the [Breast Cancer Wisconsin (Original) Data Set](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original).
